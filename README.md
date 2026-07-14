@@ -14,7 +14,7 @@ git clone https://github.com/shayan/coolnight-zed
 
 Then in Zed: `zed: install dev extension` and select the cloned folder.
 
-Select the theme via `theme selector: toggle` (`cmd-k cmd-t`) → **Coolnight**.
+Select the theme via `theme selector: toggle` (`cmd-k cmd-t`) → **Coolnight**, or **Coolnight Transparent** for a see-through window (90% opacity).
 
 ## Palette
 
