@@ -4,6 +4,8 @@ A dark blue theme for [Zed](https://zed.dev), ported from the **coolnight** colo
 
 Deep navy background, neon green cursor, and cool blue/cyan/purple accents — with full syntax highlighting, diff/git colors, and terminal palette support.
 
+![Coolnight theme in Zed](assets/coolnight.png)
+
 ## Installation
 
 Search for **Coolnight** in Zed's extensions (`cmd-shift-x`), or install manually:
