@@ -9,7 +9,7 @@ Deep navy background, neon green cursor, and cool blue/cyan/purple accents — w
 Search for **Coolnight** in Zed's extensions (`cmd-shift-x`), or install manually:
 
 ```sh
-git clone https://github.com/shayan/coolnight-zed
+git clone https://github.com/ShayanAbbas1/coolnight-zed
 ```
 
 Then in Zed: `zed: install dev extension` and select the cloned folder.
